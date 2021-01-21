@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="makeRaport.xsl"?>
+
+
+<!-- <!DOCTYPE zoo SYSTEM "zoo.dtd"> -->
+
+<zoo>
+    <animals>
+        <animal aid="A_1" species="_1" >
+            <name origin="Germany">Frank</name>
+            <birthDate>2020-01-22</birthDate>
+            <run>D01</run>
+            <weight unit="kg">20.3</weight>
+            <estimatedValue currency="PLN">2000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_2" species="_1">
+            <name origin="Germany">Neal Hochmuth</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>D01</run>
+            <weight unit="kg">25.5</weight>
+            <estimatedValue currency="USD">20000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_3" species="_2">
+            <name origin="Israel">Saul</name>
+            <birthDate>2020-05-21</birthDate>
+            <run>C01</run>
+            <weight unit="kg">3.4</weight>
+            <estimatedValue currency="PLN">5000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_4" species="_2">
+            <name origin="Germany">Conrad</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>C01</run>
+            <weight unit="kg">25.5</weight>
+            <estimatedValue currency="USD">3000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_5" species="_3">
+            <name origin="Poland">Bozydar</name>
+            <birthDate>2020-01-21</birthDate>
+            <run>G01</run>
+            <weight unit="kg">0.5</weight>
+            <estimatedValue currency="PLN">4000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_6" species="_4">
+            <name origin="Poland">Roza</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>G01</run>
+            <weight unit="kg">800.5</weight>
+            <estimatedValue currency="USD">60000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_7" species="_4">
+            <name origin="Germany">Rueben Youngman</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>G01</run>
+            <weight unit="kg">900.3</weight>
+            <estimatedValue currency="USD">70000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_8" species="_4">
+            <name origin="Germany">Juan Weisberg</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>G02</run>
+            <weight unit="kg">734.3</weight>
+            <estimatedValue currency="USD">80000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_9" species="_5">
+            <name origin="Germany">Malik Yoo</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>L01</run>
+            <weight unit="kg">190.1</weight>
+            <estimatedValue currency="USD">120000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_10" species="_5">
+            <name origin="Germany">Carlos Saladino</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>L01</run>
+            <weight unit="kg">150.5</weight>
+            <estimatedValue currency="USD">140000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_11" species="_6">
+            <name origin="Germany">Britt Raso</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>H01</run>
+            <weight unit="kg">2000.00</weight>
+            <estimatedValue currency="USD">900000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_12" species="_6">
+            <name origin="Germany">Ernesto Tellier</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>H01</run>
+            <weight unit="kg">1900.00</weight>
+            <estimatedValue currency="USD">1100000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_13" species="_6">
+            <name origin="Germany">Augustine Friar</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>H01</run>
+            <weight unit="kg">2500.00</weight>
+            <estimatedValue currency="PLN">130000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_14" species="_7">
+            <name origin="Germany">Joesph Giron</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>H01</run>
+            <weight unit="kg">0.2</weight>
+            <estimatedValue currency="USD">15.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_15" species="_8">
+            <name origin="Germany">Ted Grund</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>C01</run>
+            <weight unit="kg">700.5</weight>
+            <estimatedValue currency="USD">1000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_16" species="_8">
+            <name origin="Germany">Eugenio Cloninger</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>C01</run>
+            <weight unit="kg">600.5</weight>
+            <estimatedValue currency="USD">1000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_17" species="_9">
+            <name origin="Germany">Lamar Knecht</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>T01</run>
+            <weight unit="kg">150.9</weight>
+            <estimatedValue currency="USD">52.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_18" species="_9">
+            <name origin="Germany">Wes Pound</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>T01</run>
+            <weight unit="kg">180.1</weight>
+            <estimatedValue currency="USD">50.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_19" species="_9">
+            <name origin="Germany">Percy Kelsch</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>T01</run>
+            <weight unit="kg">110.1</weight>
+            <estimatedValue currency="USD">54.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_20" species="_9">
+            <name origin="Germany">Antony Bolander</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>T01</run>
+            <weight unit="kg">130.2</weight>
+            <estimatedValue currency="USD">40.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_21" species="_9">
+            <name origin="Germany">Scot Stracener</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>T01</run>
+            <weight unit="kg">153.2</weight>
+            <estimatedValue currency="USD">54.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_22" species="_9">
+            <name origin="Germany">Nigel Moritz</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>T01</run>
+            <weight unit="kg">150.2</weight>
+            <estimatedValue currency="USD">58.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_23" species="_10">
+            <name origin="Germany">Gabriel Hoffmann</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>S01</run>
+            <weight unit="kg">250.2</weight>
+            <estimatedValue currency="USD">2000.00</estimatedValue>
+        </animal>
+
+        <animal aid="A_24" species="_10">
+            <name origin="Germany">Isreal Lapan</name>
+            <birthDate>1995-02-22</birthDate>
+            <run>S01</run>
+            <weight unit="kg">300.2</weight>
+            <estimatedValue currency="USD">2500.00</estimatedValue>
+        </animal>
+    </animals>
+
+    <kindsOfSpecies>
+            <species sid="_1">dog</species>
+            <species sid="_2">cat</species>
+            <species sid="_3">salamander</species>
+            <species sid="_4">giraffe</species>
+            <species sid="_5">lion</species>
+            <species sid="_6">hippopotamus</species>
+            <species sid="_7">hamster</species>
+            <species sid="_8">crocodile</species>
+            <species sid="_9">turtle</species>
+            <species sid="_10">snake</species>
+    </kindsOfSpecies>
+
+</zoo>
